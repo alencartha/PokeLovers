@@ -17,7 +17,7 @@
   
 ## 2. Histórias do Usuário
   
-  De acordo com as pesquisas levantadas, foi possível constatar as seguintes necessidades dos Usuários de Pokemon GO:
+  Durante as pesquisas foram possíveis constatar as seguintes necessidades dos Usuários de Pokemon GO:
   
   -Realizar buscas de Pokemons específicos (Pokecard) através do número, no qual é possível visualizar as informações dos Pokemons;
   
