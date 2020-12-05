@@ -28,7 +28,7 @@
   Nesse sentido, são histórias de usuário da aplicação:
   
   
-  ### "Eu, como jogador de Pokemon Go, gostaria de poder localizar um Pokemon e ter acesso à um resumo de suas características" ;
+  ### "Eu, como jogador de Pokemon Go, gostaria de poder localizar um Pokemon e ter acesso à um resumo de suas características";
   
   #### Solução:
   
