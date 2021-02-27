@@ -1,6 +1,5 @@
 # Pokelovers
 
-teste
 
 ## Índice
 
